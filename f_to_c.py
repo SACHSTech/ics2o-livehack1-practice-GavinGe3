@@ -8,6 +8,7 @@ Author: Ge.G
 Created:  08/02.2021
 ------------------------------------------------------------------------------
 """
+print("******Fahrenheit to Celsius Converter******")
 
 #get degrees in fahrenheit
 degreesInFahrenheit = float(input("Enter the temperature in fahrenheit: "))

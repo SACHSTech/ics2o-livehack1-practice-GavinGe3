@@ -8,6 +8,7 @@ Author: Ge.G
 Created:  08/02.2021
 ------------------------------------------------------------------------------
 """
+print("******Hours to days and hours converter******")
 
 #get number of hours
 numberOfHours = float(input("Enter the number of hours: "))
